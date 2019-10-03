@@ -1,7 +1,11 @@
-# learning-kubernetes
+# Learning Kubernetes
 I see Kubernetes (and similar technologies) bridging clients from 'on premises' to the cloud[1].  The learning plan I am looking at consists of 3 parts, training, certification, and a conference.  The goal being that I am certified prior to the conference.
 
 ## Training:
+* ### Official Documentation
+  * [ ] [Kubernetes](https://kubernetes.io/docs/home/)
+  * [ ] [Azure Kubernetes Service (AKS)](https://docs.microsoft.com/en-us/azure/aks/)
+  * [ ] [Azure Dev Spaces (AZDS)](https://docs.microsoft.com/en-us/azure/dev-spaces/)
 * ### Pluralsight Kubernetes (included) 30h
   * [ ] [Docker and Kubernetes: The Big Picture](https://app.pluralsight.com/library/courses/docker-kubernetes-big-picture/table-of-contents)
   * [ ] [Azure Kubernetes Service (AKS) – The Big Picture](https://app.pluralsight.com/library/courses/azure-container-service-big-picture/table-of-contents)
