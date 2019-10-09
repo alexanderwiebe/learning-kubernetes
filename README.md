@@ -2,6 +2,8 @@
 I see Kubernetes (and similar technologies) bridging clients from 'on premises' to the cloud[1].  The learning plan I am looking at consists of 3 parts, training, certification, and a conference.  The goal being that I am certified prior to the conference.
 
 ## Training:
+* ### Getting started
+  * [ ] [The Illustrated Children's Guide to Kubernetes](https://www.youtube.com/watch?v=4ht22ReBjno)
 * ### Official Documentation
   * [ ] [Kubernetes](https://kubernetes.io/docs/home/)
   * [ ] [Azure Kubernetes Service (AKS)](https://docs.microsoft.com/en-us/azure/aks/)
