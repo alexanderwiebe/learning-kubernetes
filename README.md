@@ -1,16 +1,24 @@
 # Learning Kubernetes
 I see Kubernetes (and similar technologies) bridging clients from 'on premises' to the cloud[1].  The learning plan I am looking at consists of 3 parts, training, certification, and a conference.  The goal being that I am certified prior to the conference.
 
+## Notes:
+This section divides up the topics contained within kubernetes into different areas of study.
+ * [Docker Notes](docker/toc.md)
+ * [Kubernetes Notes](k8s/toc.md)
+ * [Azure Kubernetes Service (AKS) Notes](aks/toc.md)
+
 ## Training:
 * ### Getting started
   * [ ] [The Illustrated Children's Guide to Kubernetes](https://www.youtube.com/watch?v=4ht22ReBjno)
 * ### Official Documentation
+  * [ ] [Docker](https://docs.docker.com/)
   * [ ] [Kubernetes](https://kubernetes.io/docs/home/)
   * [ ] [Azure Kubernetes Service (AKS)](https://docs.microsoft.com/en-us/azure/aks/)
   * [ ] [Azure Dev Spaces (AZDS)](https://docs.microsoft.com/en-us/azure/dev-spaces/)
 * ### Pluralsight Kubernetes (included) 30h
   * [ ] [Docker and Kubernetes: The Big Picture](https://app.pluralsight.com/library/courses/docker-kubernetes-big-picture/table-of-contents)
   * [ ] [Azure Kubernetes Service (AKS) – The Big Picture](https://app.pluralsight.com/library/courses/azure-container-service-big-picture/table-of-contents)
+  * [ ] [Getting Started with Docker](https://app.pluralsight.com/library/courses/docker-getting-started/table-of-contents)
   * [ ] [Getting Started with Kubernetes](https://app.pluralsight.com/library/courses/getting-started-kubernetes/table-of-contents)
   * [ ] [Kubernetes Installation and Configuration Fundamentals](https://app.pluralsight.com/library/courses/kubernetes-installation-configuration-fundamentals/table-of-contents)
   * [ ] [Managing Ingress Traffic Patterns for Kubernetes Services](https://app.pluralsight.com/library/courses/managing-ingress-traffic-patterns-kubernetes-services/table-of-contents)
