@@ -11,6 +11,7 @@ This section divides up the topics contained within kubernetes into different ar
 * ### Getting started
   * [ ] [The Illustrated Children's Guide to Kubernetes](https://www.youtube.com/watch?v=4ht22ReBjno)
 * ### Official Documentation
+  * [ ] [Docker](https://docs.docker.com/)
   * [ ] [Kubernetes](https://kubernetes.io/docs/home/)
   * [ ] [Azure Kubernetes Service (AKS)](https://docs.microsoft.com/en-us/azure/aks/)
   * [ ] [Azure Dev Spaces (AZDS)](https://docs.microsoft.com/en-us/azure/dev-spaces/)
