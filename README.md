@@ -14,7 +14,7 @@ This section divides up the topics contained within kubernetes into different ar
 
 - ### Getting started
 
-  - [ ] [The Illustrated Children's Guide to Kubernetes](https://www.youtube.com/watch?v=4ht22ReBjno)
+  - [x] [The Illustrated Children's Guide to Kubernetes](https://www.youtube.com/watch?v=4ht22ReBjno)
 
 - ### Official Documentation
 
@@ -31,9 +31,9 @@ This section divides up the topics contained within kubernetes into different ar
 
 - ### Pluralsight Kubernetes 30h
 
-  - [ ] [Docker and Kubernetes: The Big Picture](https://app.pluralsight.com/library/courses/docker-kubernetes-big-picture/table-of-contents)
-  - [ ] [Azure Kubernetes Service (AKS) – The Big Picture](https://app.pluralsight.com/library/courses/azure-container-service-big-picture/table-of-contents)
-  - [ ] [Getting Started with Docker](https://app.pluralsight.com/library/courses/docker-getting-started/table-of-contents)
+  - [x] [Docker and Kubernetes: The Big Picture](https://app.pluralsight.com/library/courses/docker-kubernetes-big-picture/table-of-contents)
+  - [x] [Azure Kubernetes Service (AKS) – The Big Picture](https://app.pluralsight.com/library/courses/azure-container-service-big-picture/table-of-contents)
+  - [x] [Getting Started with Docker](https://app.pluralsight.com/library/courses/docker-getting-started/table-of-contents)
   - [ ] [Getting Started with Kubernetes](https://app.pluralsight.com/library/courses/getting-started-kubernetes/table-of-contents)
   - [ ] [Kubernetes Installation and Configuration Fundamentals](https://app.pluralsight.com/library/courses/kubernetes-installation-configuration-fundamentals/table-of-contents)
   - [ ] [Managing Ingress Traffic Patterns for Kubernetes Services](https://app.pluralsight.com/library/courses/managing-ingress-traffic-patterns-kubernetes-services/table-of-contents)
