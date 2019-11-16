@@ -67,6 +67,7 @@ This section divides up the topics contained within kubernetes into different ar
 
 - ### Other Microsoft Videos
 
+  - [ ] [Explore Containers in Azure](https://aka.ms/AFUN60MSLearnCollection)
   - [ ] [Cloud Native Show](https://aka.ms/cloudnativeshow)
 
 - ### Udemy Kubernetes (purchased; training allotment)
