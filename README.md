@@ -47,10 +47,10 @@ This section divides up the topics contained within kubernetes into different ar
 
 - ### Microsoft Ignite Kubernetes 2019
 
-  - [ ] [Exploring containers and orchestration in Azure](https://myignite.techcommunity.microsoft.com/sessions/83214?source=sessions)
-  - [ ] [Cloud native applications with .NET Core and Azure Kubernetes Service](https://myignite.techcommunity.microsoft.com/sessions/81608?source=sessions)
-  - [ ] [Windows container and the Azure Kubernetes Service](https://myignite.techcommunity.microsoft.com/sessions/82952?source=sessions)
-  - [ ] [Deploy apps to Kubernetes using CI/CD in 20 minutes](https://myignite.techcommunity.microsoft.com/sessions/83971?source=sessions)
+  - [x] [Exploring containers and orchestration in Azure](https://myignite.techcommunity.microsoft.com/sessions/83214?source=sessions)
+  - [x] [Cloud native applications with .NET Core and Azure Kubernetes Service](https://myignite.techcommunity.microsoft.com/sessions/81608?source=sessions)
+  - [x] [Windows container and the Azure Kubernetes Service](https://myignite.techcommunity.microsoft.com/sessions/82952?source=sessions)
+  - [x] [Deploy apps to Kubernetes using CI/CD in 20 minutes](https://myignite.techcommunity.microsoft.com/sessions/83971?source=sessions)
   - [ ] [Consolidating infrastructure with Azure Kubernetes Service](https://myignite.techcommunity.microsoft.com/sessions/83033?source=sessions)
   - [ ] [Serverless Kubernetes with Azure Functions and Azure Kubernetes Service (AKS)](https://myignite.techcommunity.microsoft.com/sessions/83959?source=sessions)
   - [ ] [Applying best practices to Azure Kubernetes Service (AKS)](https://myignite.techcommunity.microsoft.com/sessions/81598?source=sessions)
