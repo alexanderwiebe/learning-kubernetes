@@ -13,13 +13,18 @@ This section divides up the topics contained within kubernetes into different ar
 ## Training:
 
 - ### Getting started
+
   - [ ] [The Illustrated Children's Guide to Kubernetes](https://www.youtube.com/watch?v=4ht22ReBjno)
+
 - ### Official Documentation
+
   - [ ] [Docker](https://docs.docker.com/)
   - [ ] [Kubernetes](https://kubernetes.io/docs/home/)
   - [ ] [Azure Kubernetes Service (AKS)](https://docs.microsoft.com/en-us/azure/aks/)
   - [ ] [Azure Dev Spaces (AZDS)](https://docs.microsoft.com/en-us/azure/dev-spaces/)
+
 - ### Pluralsight Kubernetes (included) 30h
+
   - [ ] [Docker and Kubernetes: The Big Picture](https://app.pluralsight.com/library/courses/docker-kubernetes-big-picture/table-of-contents)
   - [ ] [Azure Kubernetes Service (AKS) – The Big Picture](https://app.pluralsight.com/library/courses/azure-container-service-big-picture/table-of-contents)
   - [ ] [Getting Started with Docker](https://app.pluralsight.com/library/courses/docker-getting-started/table-of-contents)
@@ -33,7 +38,9 @@ This section divides up the topics contained within kubernetes into different ar
   - [ ] [Deploying Containerized Workloads Using Google Cloud Kubernetes Engine](https://app.pluralsight.com/library/courses/google-cloud-kubernetes-engine-deploying-containerized-workloads/table-of-contents)
   - [ ] [Leveraging Advanced Features on the Google Cloud Kubernetes Engine](https://app.pluralsight.com/library/courses/google-cloud-kubernetes-engine-leveraging-advanced-features/table-of-contents)
   - [ ] [Packaging Applications with Helm for Kubernetes](https://app.pluralsight.com/library/courses/packaging-applications-helm-kubernetes/table-of-contents)
+
 - ### Microsoft Ignite Kubernetes 2019
+
   - [ ] [Cloud native applications with .NET Core and Azure Kubernetes Service](https://myignite.techcommunity.microsoft.com/sessions/81608?source=sessions)
   - [ ] [Windows container and the Azure Kubernetes Service](https://myignite.techcommunity.microsoft.com/sessions/82952?source=sessions)
   - [ ] [Deploy apps to Kubernetes using CI/CD in 20 minutes](https://myignite.techcommunity.microsoft.com/sessions/83971?source=sessions)
@@ -49,19 +56,26 @@ This section divides up the topics contained within kubernetes into different ar
   - [ ] [Building enterprise capable serverless applications](https://myignite.techcommunity.microsoft.com/sessions/81605?source=sessions)
   - [ ] [Modernize your applications and infrastructure in 20 minutes](https://myignite.techcommunity.microsoft.com/sessions/87747?source=sessions)
   - [ ] [Getting started with deploying apps on Azure Red Hat OpenShift](https://myignite.techcommunity.microsoft.com/sessions/81595?source=sessions)
+
 - ### Microsoft Ignite Containers 2019
+
   - [ ] [Modernizing your application with containers](https://myignite.techcommunity.microsoft.com/sessions/83032?source=sessions)
   - [ ] [Modernizing classic applications with Windows containers](https://myignite.techcommunity.microsoft.com/sessions/84627?source=sessions)
   - [ ] [API management for microservices in a hybrid and multi-cloud world](https://myignite.techcommunity.microsoft.com/sessions/81603?source=sessions)
   - [ ] [Exam Prep | AZ-301: Microsoft Azure Architect Design](https://myignite.techcommunity.microsoft.com/sessions/78629?source=sessions)
   - [ ] [Using Azure and Ansible as a catalyst for digital transformation](https://myignite.techcommunity.microsoft.com/sessions/84593?source=sessions)
+
 - ### Other Microsoft Videos
+
   - [ ] [Cloud Native Show](https://aka.ms/cloudnativeshow)
+
 - ### Udemy Kubernetes (purchased; training allotment)
+
   - [ ] [Docker and Kubernetes: The Complete Guide (22h)](https://www.udemy.com/course/docker-and-kubernetes-the-complete-guide/)
   - [ ] [Certified Kubernetes Administrator (CKA) with Practice Tests (12h)](https://www.udemy.com/course/certified-kubernetes-administrator-with-practice-tests/)
   - [ ] [Kubernetes Certified Application Developer (CKAD) with Tests (5h)](https://www.udemy.com/course/certified-kubernetes-application-developer/)
   - [ ] [Learn DevOps: The Complete Kubernetes Course (11h)](https://www.udemy.com/course/learn-devops-the-complete-kubernetes-course/)
+
 - ### Cloud Native Computing Foundation
   - [ ] [Introduction to Kubernetes (free)](https://www.cncf.io/certification/training/)
   - [ ] [Kubernetes Fundamentals (\$299 USD)](https://www.cncf.io/certification/training/)
