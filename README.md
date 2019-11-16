@@ -41,14 +41,14 @@ This section divides up the topics contained within kubernetes into different ar
 
 - ### Microsoft Ignite Kubernetes 2019
 
+  - [ ] [Exploring containers and orchestration in Azure](https://myignite.techcommunity.microsoft.com/sessions/83214?source=sessions)
   - [ ] [Cloud native applications with .NET Core and Azure Kubernetes Service](https://myignite.techcommunity.microsoft.com/sessions/81608?source=sessions)
   - [ ] [Windows container and the Azure Kubernetes Service](https://myignite.techcommunity.microsoft.com/sessions/82952?source=sessions)
   - [ ] [Deploy apps to Kubernetes using CI/CD in 20 minutes](https://myignite.techcommunity.microsoft.com/sessions/83971?source=sessions)
-  - [ ] [Applying best practices to Azure Kubernetes Service (AKS)](https://myignite.techcommunity.microsoft.com/sessions/81598?source=sessions)
   - [ ] [Consolidating infrastructure with Azure Kubernetes Service](https://myignite.techcommunity.microsoft.com/sessions/83033?source=sessions)
-  - [ ] [The now and then of cloud native application in the enterprise using containers](https://myignite.techcommunity.microsoft.com/sessions/81599?source=sessions)
   - [ ] [Serverless Kubernetes with Azure Functions and Azure Kubernetes Service (AKS)](https://myignite.techcommunity.microsoft.com/sessions/83959?source=sessions)
-  - [ ] [Exploring containers and orchestration in Azure](https://myignite.techcommunity.microsoft.com/sessions/83214?source=sessions)
+  - [ ] [Applying best practices to Azure Kubernetes Service (AKS)](https://myignite.techcommunity.microsoft.com/sessions/81598?source=sessions)
+  - [ ] [The now and then of cloud native application in the enterprise using containers](https://myignite.techcommunity.microsoft.com/sessions/81599?source=sessions)
   - [ ] [How DNV GL uses Kubernetes for machine learning and enterprise-wide microservice oriented apps](https://myignite.techcommunity.microsoft.com/sessions/81597?source=sessions)
   - [ ] [Lifecycle of a Java app from initial deployment to running in production using Terraform and Ansible](https://myignite.techcommunity.microsoft.com/sessions/83978?source=sessions)
   - [ ] [Deploy an app in Azure Kubernetes and App Services with MySQL](https://myignite.techcommunity.microsoft.com/sessions/83538?source=sessions)
