@@ -2,14 +2,20 @@
 
 [home](../README.md)
 
+1. [`docker run`](#docker-run)
 1. [`docker start`](#docker-start)
-2. [`docker stop`](#docker-stop)
-3. [`docker rm`](#docker-rm)
-4. [`docker rmi`](#docker-rmi)
-5. [`docker images`](#docker-images)
+1. [`docker stop`](#docker-stop)
+1. [`docker rm`](#docker-rm)
+1. [`docker rmi`](#docker-rmi)
+1. [`docker pull`](#docker-pull)
+1. [`docker images`](#docker-images)
 
+## `docker run`
+If image exists start it, if not download it from registry -> then start.
+`-d` run in background.
+`-it` interact
 ## `docker start`
-docker start
+docker start for `start`ing a stopped containers
 
 ## `docker stop`
 docker stop
@@ -21,6 +27,9 @@ removes all docker containers
 
 ## `docker rmi`
 similar to above 'rm' but for images not containers
+
+## `docker pull`
+copies image from registry local
 
 ## `docker images`
 lists all the images 
