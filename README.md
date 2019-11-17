@@ -85,8 +85,18 @@ This section divides up the topics contained within kubernetes into different ar
 ## Certification:
 
 - ### Individual:
+
   - [ ] [Certified Kubernetes Administrator (CKA) Program (\$300 USD)](https://www.cncf.io/certification/cka/)
   - [ ] [Certified Kubernetes Application Developer (CKAD) Program (\$300 USD)](https://www.cncf.io/certification/ckad/)
+  - [ ] [Microsoft Certified: Azure Developer Associate](https://docs.microsoft.com/en-us/learn/certifications/azure-developer)
+    - [ ] [Exam AZ-203: Developing Solutions for Microsoft Azure](https://docs.microsoft.com/en-us/learn/certifications/exams/az-203)
+  - [ ] [Microsoft Certified: Azure Solutions Architect Expert](https://docs.microsoft.com/en-us/learn/certifications/azure-solutions-architect)
+    - [ ] [Exam AZ-300: Microsoft Azure Architect Technologies](https://docs.microsoft.com/en-us/learn/certifications/exams/az-300)
+    - [ ] [Exam AZ-301: Microsoft Azure Architect Design](https://docs.microsoft.com/en-us/learn/certifications/exams/az-301)
+  - [ ] [Microsoft Certified: Azure DevOps Engineer Expert](https://docs.microsoft.com/en-us/learn/certifications/azure-devops)
+    - [ ] [Exam AZ-203: Developing Solutions for Microsoft Azure](https://docs.microsoft.com/en-us/learn/certifications/exams/az-203)
+    - [ ] [Exam AZ-400: Microsoft Azure DevOps Solutions](https://docs.microsoft.com/en-us/learn/certifications/exams/az-400)
+
 - ### Corporate:
   - [ ] [Kubernetes Certified Service Provider](https://www.cncf.io/certification/kcsp/)
 
