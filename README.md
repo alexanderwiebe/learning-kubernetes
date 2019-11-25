@@ -76,6 +76,7 @@ This section divides up the topics contained within kubernetes into different ar
   - [ ] [Certified Kubernetes Administrator (CKA) with Practice Tests (12h)](https://www.udemy.com/course/certified-kubernetes-administrator-with-practice-tests/)
   - [ ] [Kubernetes Certified Application Developer (CKAD) with Tests (5h)](https://www.udemy.com/course/certified-kubernetes-application-developer/)
   - [ ] [Learn DevOps: The Complete Kubernetes Course (11h)](https://www.udemy.com/course/learn-devops-the-complete-kubernetes-course/)
+  - [ ] [Kubernetes for the Absolute Beginners - Hands-on (6h)](https://www.udemy.com/course/learn-kubernetes/)
 
 - ### Cloud Native Computing Foundation
   - [ ] [Introduction to Kubernetes (free)](https://www.cncf.io/certification/training/)
