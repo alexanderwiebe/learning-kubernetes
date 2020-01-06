@@ -77,7 +77,9 @@ This section divides up the topics contained within kubernetes into different ar
   - [ ] [Kubernetes Certified Application Developer (CKAD) with Tests (5h)](https://www.udemy.com/course/certified-kubernetes-application-developer/)
   - [ ] [Learn DevOps: The Complete Kubernetes Course (11h)](https://www.udemy.com/course/learn-devops-the-complete-kubernetes-course/)
   - [ ] [Kubernetes for the Absolute Beginners - Hands-on (6h)](https://www.udemy.com/course/learn-kubernetes/)
-
+  - [ ] [Kubernetes MasterClass : Kubernetes From Scratch to Advance](https://www.udemy.com/course/kubernetes-training/)
+  - [ ] [Docker Mastery: with Kubernetes +Swarm from a Docker Captain](https://www.udemy.com/course/docker-mastery/)
+  - [ ] [Istio Hands-On for Kubernetes](https://www.udemy.com/course/istio-hands-on-for-kubernetes/)
 - ### Cloud Native Computing Foundation
   - [ ] [Introduction to Kubernetes (free)](https://www.cncf.io/certification/training/)
   - [ ] [Kubernetes Fundamentals (\$299 USD)](https://www.cncf.io/certification/training/)
