@@ -27,6 +27,7 @@ removes all docker containers
 
 ## `docker rmi`
 similar to above 'rm' but for images not containers
+`>docker rmi $(docker images -q)`
 
 ## `docker pull`
 copies image from registry local
