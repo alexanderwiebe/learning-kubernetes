@@ -22,6 +22,9 @@ This section divides up the topics contained within kubernetes into different ar
   - [ ] [Kubernetes](https://kubernetes.io/docs/home/)
   - [ ] [Azure Kubernetes Service (AKS)](https://docs.microsoft.com/en-us/azure/aks/)
   - [ ] [Azure Dev Spaces (AZDS)](https://docs.microsoft.com/en-us/azure/dev-spaces/)
+  
+- ### Good Websites
+  - [ ] [Kubernetes for Full-Stack Developers](https://digitalocean.com/community/curriculums/kubernetes-for-full-stack-developers)
 
 - ### Pluralsight Kubernetes (included) 30h
 
