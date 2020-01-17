@@ -25,6 +25,7 @@ This section divides up the topics contained within kubernetes into different ar
   
 - ### Good Websites
   - [ ] [Kubernetes for Full-Stack Developers](https://digitalocean.com/community/curriculums/kubernetes-for-full-stack-developers)
+  - [ ] [Kubernetes the Hard Way](https://github.com/kelseyhightower/kubernetes-the-hard-way)
 
 - ### Pluralsight Kubernetes (included) 30h
 
