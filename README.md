@@ -22,10 +22,12 @@ This section divides up the topics contained within kubernetes into different ar
   - [ ] [Kubernetes](https://kubernetes.io/docs/home/)
   - [ ] [Azure Kubernetes Service (AKS)](https://docs.microsoft.com/en-us/azure/aks/)
   - [ ] [Azure Dev Spaces (AZDS)](https://docs.microsoft.com/en-us/azure/dev-spaces/)
-  
+
 - ### Good Websites
+
   - [ ] [Kubernetes for Full-Stack Developers](https://digitalocean.com/community/curriculums/kubernetes-for-full-stack-developers)
   - [ ] [Kubernetes the Hard Way](https://github.com/kelseyhightower/kubernetes-the-hard-way)
+  - [ ] [Managing delivery of your app via DevOps](https://docs.microsoft.com/en-us/users/msignite2019/collections/dw7i520yx705?WT.mc_id=msignitethetour2019-slides-apps40)
 
 - ### Pluralsight Kubernetes (included) 30h
 
@@ -84,6 +86,7 @@ This section divides up the topics contained within kubernetes into different ar
   - [ ] [Kubernetes MasterClass : Kubernetes From Scratch to Advance](https://www.udemy.com/course/kubernetes-training/)
   - [ ] [Docker Mastery: with Kubernetes +Swarm from a Docker Captain](https://www.udemy.com/course/docker-mastery/)
   - [ ] [Istio Hands-On for Kubernetes](https://www.udemy.com/course/istio-hands-on-for-kubernetes/)
+
 - ### Cloud Native Computing Foundation
   - [ ] [Introduction to Kubernetes (free)](https://www.cncf.io/certification/training/)
   - [ ] [Kubernetes Fundamentals (\$299 USD)](https://www.cncf.io/certification/training/)
