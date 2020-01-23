@@ -29,7 +29,7 @@ This section divides up the topics contained within kubernetes into different ar
   - [ ] [Kubernetes the Hard Way](https://github.com/kelseyhightower/kubernetes-the-hard-way)
   - [ ] [Managing delivery of your app via DevOps](https://docs.microsoft.com/en-us/users/msignite2019/collections/dw7i520yx705?WT.mc_id=msignitethetour2019-slides-apps40)
 
-- ### Pluralsight Kubernetes (included) 30h
+- ### Pluralsight Kubernetes 30h
 
   - [ ] [Docker and Kubernetes: The Big Picture](https://app.pluralsight.com/library/courses/docker-kubernetes-big-picture/table-of-contents)
   - [ ] [Azure Kubernetes Service (AKS) – The Big Picture](https://app.pluralsight.com/library/courses/azure-container-service-big-picture/table-of-contents)
@@ -76,16 +76,16 @@ This section divides up the topics contained within kubernetes into different ar
   - [ ] [Explore Containers in Azure](https://aka.ms/AFUN60MSLearnCollection)
   - [ ] [Cloud Native Show](https://aka.ms/cloudnativeshow)
 
-- ### Udemy Kubernetes (purchased; training allotment)
+- ### Udemy Kubernetes (106)
 
+  - [ ] [Kubernetes for the Absolute Beginners - Hands-on (6h)](https://www.udemy.com/course/learn-kubernetes/)
   - [ ] [Docker and Kubernetes: The Complete Guide (22h)](https://www.udemy.com/course/docker-and-kubernetes-the-complete-guide/)
+  - [ ] [Docker Mastery: with Kubernetes +Swarm from a Docker Captain (20h)](https://www.udemy.com/course/docker-mastery/)
+  - [ ] [Kubernetes MasterClass : Kubernetes From Scratch to Advance (17h)](https://www.udemy.com/course/kubernetes-training/)
   - [ ] [Certified Kubernetes Administrator (CKA) with Practice Tests (12h)](https://www.udemy.com/course/certified-kubernetes-administrator-with-practice-tests/)
   - [ ] [Kubernetes Certified Application Developer (CKAD) with Tests (5h)](https://www.udemy.com/course/certified-kubernetes-application-developer/)
-  - [ ] [Learn DevOps: The Complete Kubernetes Course (11h)](https://www.udemy.com/course/learn-devops-the-complete-kubernetes-course/)
-  - [ ] [Kubernetes for the Absolute Beginners - Hands-on (6h)](https://www.udemy.com/course/learn-kubernetes/)
-  - [ ] [Kubernetes MasterClass : Kubernetes From Scratch to Advance](https://www.udemy.com/course/kubernetes-training/)
-  - [ ] [Docker Mastery: with Kubernetes +Swarm from a Docker Captain](https://www.udemy.com/course/docker-mastery/)
-  - [ ] [Istio Hands-On for Kubernetes](https://www.udemy.com/course/istio-hands-on-for-kubernetes/)
+  - [ ] [Learn DevOps: The Complete Kubernetes Course (13h)](https://www.udemy.com/course/learn-devops-the-complete-kubernetes-course/)
+  - [ ] [Istio Hands-On for Kubernetes (11h)](https://www.udemy.com/course/istio-hands-on-for-kubernetes/)
 
 - ### Cloud Native Computing Foundation
   - [ ] [Introduction to Kubernetes (free)](https://www.cncf.io/certification/training/)
