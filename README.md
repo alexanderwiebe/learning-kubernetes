@@ -36,6 +36,8 @@ This section divides up the topics contained within kubernetes into different ar
   - [ ] [Getting Started with Docker](https://app.pluralsight.com/library/courses/docker-getting-started/table-of-contents)
   - [ ] [Getting Started with Kubernetes](https://app.pluralsight.com/library/courses/getting-started-kubernetes/table-of-contents)
   - [ ] [Kubernetes Installation and Configuration Fundamentals](https://app.pluralsight.com/library/courses/kubernetes-installation-configuration-fundamentals/table-of-contents)
+  - [ ] [Microsoft Azure DevOps Engineer: Manage Azure Kubernetes Services Infrastructure
+](https://app.pluralsight.com/library/courses/microsoft-azure-kubernetes-infrastructure-manage/table-of-contents)
   - [ ] [Managing Ingress Traffic Patterns for Kubernetes Services](https://app.pluralsight.com/library/courses/managing-ingress-traffic-patterns-kubernetes-services/table-of-contents)
   - [ ] [Managing the Kubernetes API Server and Pods](https://app.pluralsight.com/library/courses/managing-kubernetes-api-server-pods/table-of-contents)
   - [ ] [Microsoft Azure Developer: Deploying and Managing Containers](https://app.pluralsight.com/library/courses/microsoft-azure-containers-deploying-managing/table-of-contents)
