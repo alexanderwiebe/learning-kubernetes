@@ -12,25 +12,28 @@
 
 ## `docker run`
 If image exists start it, if not download it from registry -> then start.
-`-d` run in background.
-`-it` interact
+`-d` detached / run in background.
+`-it` interactive
+
 ## `docker start`
 docker start for `start`ing a stopped containers
 
 ## `docker stop`
-docker stop
+docker stop for stopping containers
 
-## `docker rm`
-
-`>docker rm $(docker ps -aq)`
-removes all docker containers
-
-## `docker rmi`
-similar to above 'rm' but for images not containers
-`>docker rmi $(docker images -q)`
 
 ## `docker pull`
-copies image from registry local
+copies image from registry to local
 
 ## `docker images`
 lists all the images 
+
+
+## `docker rmi`
+removes image
+`>docker rmi $(docker images -q)` removes all
+
+## `docker rm`
+`>docker rm $(docker ps -aq)`
+removes all docker containers.  Similar to above but for containers
+
